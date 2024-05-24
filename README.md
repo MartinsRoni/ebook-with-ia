@@ -6,8 +6,8 @@
 
 <p align="center">
 <img 
-    src="/ativos/Python.png"
-    width="100"  
+    src="/ativos/montagem.png"
+    width="300"  
 />
 </p>
 
